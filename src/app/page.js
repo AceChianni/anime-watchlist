@@ -17,10 +17,10 @@ const Home = () => (
     </header>
     <main className="flex flex-col items-center justify-center flex-grow">
       <h1 className="mb-6 text-4xl font-bold text-blue-600">
-        Welcome to Recipe Book
+        Welcome to Anniime Watchlist
       </h1>
       <p className="mb-6 text-lg text-gray-700">
-        This is the home page of Recipe Book.
+        This is the home page of The Anime Watchlist.
       </p>
     </main>
     <footer className="bg-gray-800 text-white text-center p-4 w-full">
