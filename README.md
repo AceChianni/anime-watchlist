@@ -8,7 +8,7 @@ This is a Next.js application named Anime Watchlist. It includes a simple home p
 
 ## How to Run
 
-1. Clone the repository: git clone [repository URL]
+1. Clone the repository: git clone https://github.com/AceChianni/anime-watchlist.git
 
 2. Navigate to the project directory: `cd [project-directory]`
 
@@ -20,7 +20,7 @@ This is a Next.js application named Anime Watchlist. It includes a simple home p
 
 ## Deployment
 
-This application is deployed on Vercel. You can view the live site at: [deployment URL]
+This application is deployed on Vercel. You can view the live site at: https://anime-watchlist-acechiannis-projects.vercel.app/
 
 - Technologies Used
 
